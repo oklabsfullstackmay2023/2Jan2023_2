@@ -1,0 +1,7 @@
+print(100 == 100)
+print(100 == 100)
+print(100 > 10)
+print(10 < 9)
+print(100 > 155)
+print(105 < 100)
+print(150 > 100)
